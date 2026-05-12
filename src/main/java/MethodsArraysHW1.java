@@ -27,7 +27,8 @@ public class MethodsArraysHW1 {
     public static byte arraySum(boolean[] ar){
         byte sum = 0;
         for (boolean num: ar){
-            if(num){}
+            if(num == true)
+                sum++;
         }
         return sum;
     }
