@@ -14,6 +14,8 @@ public class MainJavaArrays {
         ar2[3] = -2;
         System.out.println(ar2.length);
 
+        System.out.println(ar2[0]);
+
 
 
     }
