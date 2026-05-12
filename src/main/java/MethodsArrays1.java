@@ -37,6 +37,7 @@ public class MethodsArrays1 {
         return sum;
     }
 }
+
 /*
 HW
 1.

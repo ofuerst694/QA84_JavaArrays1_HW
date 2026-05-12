@@ -35,6 +35,7 @@ public class MethodsArray {
         System.out.println();
     }
 
+
     public static void printArray(byte[] ar){
         for(byte num: ar){
             System.out.print(num+" ");

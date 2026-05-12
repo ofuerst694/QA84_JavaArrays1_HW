@@ -18,5 +18,6 @@ public class MainArraysTypes {
        MethodsArray.printArray(arc);
        System.out.println(MethodsArrays1.arraySum(arc));
 
+
     }
 }
