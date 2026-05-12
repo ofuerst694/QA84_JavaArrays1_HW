@@ -13,6 +13,7 @@ public class MethodsArraysHW1 {
         for (double num: ar){
             sum = sum + num;
         }
+
         return sum;
     }
 
