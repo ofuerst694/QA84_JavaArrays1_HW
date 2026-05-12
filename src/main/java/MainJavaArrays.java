@@ -7,6 +7,7 @@ public class MainJavaArrays {
         int [] ar1 = ar;
         ar1[0] = 10;
         System.out.println(ar[0]);
+
         ar = null;
         System.out.println(ar1[5]);
 

@@ -1,7 +1,7 @@
 public class MethodsArraysHW1 {
-    public static int arraySum(byte[] ar){
+    public static int arraySum(byte[] ar) {
         int sum = 0;
-        for (byte num: ar){
+        for (byte num : ar) {
             sum = sum + num;
             //sum += num;
         }
