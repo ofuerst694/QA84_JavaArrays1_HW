@@ -13,7 +13,6 @@ public class MethodsArraysHW1 {
         for (double num: ar){
             sum = sum + num;
         }
-
         return sum;
     }
 
@@ -31,6 +30,6 @@ public class MethodsArraysHW1 {
             if(num)
                 sum++;
         }
-        return sum;
+        return (byte) sum;
     }
 }

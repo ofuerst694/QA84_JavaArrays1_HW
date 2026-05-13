@@ -38,6 +38,7 @@ public class MethodsArrays1 {
     }
 }
 
+
 /*
 HW
 1.
