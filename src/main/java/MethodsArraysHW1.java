@@ -6,6 +6,7 @@ public class MethodsArraysHW1 {
             //sum += num;
         }
         return sum;
+
     }
 
 

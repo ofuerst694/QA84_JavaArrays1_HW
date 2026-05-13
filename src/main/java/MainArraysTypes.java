@@ -13,6 +13,7 @@ public class MainArraysTypes {
        //                0         1       2
        String[] ars = {"Hello", "course", "QA"};
 
+
        //              0      1    2
        float[] arf = {6.2F, 5.7F, 8.4F};
 
