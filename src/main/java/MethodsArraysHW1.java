@@ -8,6 +8,7 @@ public class MethodsArraysHW1 {
         return sum;
     }
 
+
     public static double arraySum(double[] ar){
         double sum = 0;
         for (double num: ar){
