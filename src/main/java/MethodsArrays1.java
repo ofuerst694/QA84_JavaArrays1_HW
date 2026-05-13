@@ -36,6 +36,18 @@ public class MethodsArrays1 {
         }
         return sum;
     }
+
+/*
+    public static int arraySum(byte[] ar){
+        int sum = 0;
+        for (byte num: ar){
+            sum = sum + num;
+            //sum += num;
+        }
+        return sum;
+    }
+
+ */
 }
 
 

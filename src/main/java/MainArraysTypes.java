@@ -20,7 +20,8 @@ public class MainArraysTypes {
       // MethodsArray.printArray(arc);
       // System.out.println(MethodsArrays1.arraySum(arc));
 
-       System.out.println(MethodsArraysHW1.arraySum(arbool));
+
+       //System.out.println(MethodsArraysHW1.arraySum(arc));
 
     }
 }
